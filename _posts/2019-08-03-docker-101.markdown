@@ -6,12 +6,13 @@ categories: Docker Workshops
 ---
 ## Docker 101
 
-El sábado 20 de julio realizamos nuestro primer workshop técnico en las oficinas de [Tiendanube](https://www.tiendanube.com/).
+## El sábado 20 de julio realizamos nuestro primer workshop técnico en las oficinas de [Tiendanube](https://www.tiendanube.com/).
 
 La temática fue Docker 101 y el contenido estuvo a cargo de [Juani Gallo](https://www.linkedin.com/in/juangallo/) y [Damian Catanzaro](https://www.linkedin.com/in/damiancatanzaro/) co-fundadores de [CourseIT](https://courseit.com.ar).
 
 A continuación les dejamos una grabación de la parte teórica para quienes no pudieron asistir o se quedaron con ganas de repasar conceptos.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U1I9mi6kLxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
