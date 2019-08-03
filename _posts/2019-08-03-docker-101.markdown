@@ -4,9 +4,7 @@ title:  "Docker 101"
 date:   2019-08-03 21:03:36 -0300
 categories: Docker Workshops
 ---
-## Docker 101
-
-## El sábado 20 de julio realizamos nuestro primer workshop técnico en las oficinas de [Tiendanube](https://www.tiendanube.com/).
+El sábado 20 de julio realizamos nuestro primer workshop técnico en las oficinas de [Tiendanube](https://www.tiendanube.com/).
 
 La temática fue Docker 101 y el contenido estuvo a cargo de [Juani Gallo](https://www.linkedin.com/in/juangallo/) y [Damian Catanzaro](https://www.linkedin.com/in/damiancatanzaro/) co-fundadores de [CourseIT](https://courseit.com.ar).
 
